@@ -63,3 +63,64 @@ app/
  │    └── ui/theme/
  ├── res/
  └── Gradle Scripts/
+
+
+---
+
+# 🚀 Setup Instructions
+
+## 1️⃣ Clone Repository
+
+```bash
+git clone https://github.com/Narein-karthik/RaktaSevaConnect.git
+```
+
+---
+
+## 2️⃣ Open in Android Studio
+
+- Open Android Studio
+- Click Open Project
+- Select cloned folder
+
+---
+
+## 3️⃣ Firebase Setup
+
+Add your Firebase `google-services.json` file inside:
+
+```text
+app/google-services.json
+```
+
+Enable:
+- Firebase Authentication
+- Cloud Firestore
+- Firebase Cloud Messaging
+
+---
+
+## 4️⃣ Run Application
+
+- Connect emulator/device
+- Click ▶ Run in Android Studio
+
+---
+
+# 📸 Screenshots
+
+(Add screenshots here)
+
+---
+
+# 🎯 Project Goal
+
+RaktaSevaConnect aims to provide a fast and reliable emergency blood donation platform that helps connect nearby donors with patients and hospitals during critical situations.
+
+---
+
+# 👨‍💻 Developer
+
+### Narein Karthik
+
+MindMatrix VTU Internship Project 🚀
